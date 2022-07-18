@@ -1,0 +1,121 @@
+header {
+  position: fixed;
+  height: 90px;
+  width: 100%;
+  box-shadow: 0 9px 5px 0 rgb(0 0 0/0.3);
+  background-color: #e0e0e0;
+}
+nav {
+  max-width: 1400px;
+  margin: 0 auto;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 35px;
+  color: #666666;
+}
+a {
+  padding: 20px;
+  text-decoration: none;
+  color: #666666;
+  font-size: 20px;
+}
+.home {
+  width: 100%;
+  height: 930px;
+  background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80");
+  align-items: center;
+}
+.home-1 {
+  display: flex | column;
+  width: 1200px;
+  height: 100px;
+  justify-content: center;
+  font-size: 50px;
+  padding: 250px;
+}
+.home-2 {
+  padding: 40px 0px;
+  font-size: 30px;
+}
+.about {
+  width: 100%;
+  height: 900px;
+  background-image: url("https://images.unsplash.com/photo-1601662528567-526cd06f6582?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80");
+}
+.about-1 {
+  display: flex | column;
+  width: 1000px;
+  height: 300px;
+  padding: 150px;
+  margin: 0px 250px;
+  font-size: 50px;
+}
+.about-3 {
+  padding: 20px 0px;
+  font-size: 20px;
+}
+/* RGB to Hex Converter */
+.smallblockr {
+  margin: 40px 0px 70px 0px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+
+.smallblockg {
+  margin: 30px 0px 70px 0px;
+  width: 50px;
+  height: 50px;
+  background-color: green;
+}
+
+.smallblockb {
+  margin: 30px 0px 100px 0px;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
+button {
+  margin: auto;
+}
+
+.hexblock {
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.all {
+  padding-top: 7%;
+  text-align: center;
+  font-size: 50px;
+}
+.big {
+  display: flex;
+  justify-content: center;
+}
+input {
+  margin: 20px;
+}
+.skill {
+  width: 100%;
+  height: 900px;
+  background-color: #c4c4c4;
+}
+.contact {
+  width: 100%;
+  height: 250px;
+  display: flex;
+  font-size: 30px;
+  background-image: url("https://images.unsplash.com/photo-1604147706283-d7119b5b822c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+}
+.contact-1 {
+  margin: 60px 0px 0px 450px;
+  font-size: 30px;
+}
+.contact-2 {
+  margin: 100px 0px 0px 250px;
+}
