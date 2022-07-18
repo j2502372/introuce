@@ -103,7 +103,7 @@ input {
 .skill {
   width: 100%;
   height: 900px;
-  background-color: #c4c4c4;
+  background-color: #f2ffff;
 }
 .contact {
   width: 100%;
@@ -118,4 +118,30 @@ input {
 }
 .contact-2 {
   margin: 100px 0px 0px 250px;
+}
+.skills {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("https://images.unsplash.com/photo-1533035336122-4327d347d2fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+}
+.skill-chart {
+  width: 450px;
+  margin: 150px 300px 0px 50px;
+}
+.skills-1 {
+  width: 450px;
+  margin: 150px 100px 0px 300px;
+  font-size: 20px;
+}
+.progress {
+  margin: 20px 0px;
+}
+.back {
+  margin: 160px 0px;
+  font-size: 20px;
+}
+.backchart {
+  margin: 80px 0px;
 }
